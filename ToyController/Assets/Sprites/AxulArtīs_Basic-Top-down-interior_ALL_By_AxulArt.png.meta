@@ -1,0 +1,5618 @@
+fileFormatVersion: 2
+guid: 8dc23822cc3af4d4eaac2fcb4eaf637e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d400ab42017324f0591f73f6af9404a6
+      internalID: 1709409674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_1"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb6b13a369144f74a96d0de5975db7c
+      internalID: -1098608928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_2"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbb51e2abe1944f195cba20b19c5cb0
+      internalID: -843557183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_3"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6845aa7352a458aa65a8808ec40c2f
+      internalID: -1602339085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_4"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778c61e1adc7f4dc5bae237c27ad6472
+      internalID: -1567309958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_5"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae89bb835aa514014802e8ec466f1f65
+      internalID: 1582994167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_6"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec335566527c0438590c557e4931c7c4
+      internalID: -844186066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_7"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c86ee6e1689e408da0b99ee22412d77
+      internalID: 1183865498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_8"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec4338000e924391a9f5ed96af235e3
+      internalID: -1488227027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_9"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69e9223ac9b04d31a07c663fb31826e
+      internalID: 531792790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_10"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a572bee9c314abab92e3fa98620a81
+      internalID: -1487570283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_11"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaeb2ffede03e4005b699ebd46147dfe
+      internalID: -1563904550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_12"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe65f2befe3148c8aa5592236695dc5
+      internalID: 1631431461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_13"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9391a749a543415fa16187c0beda9a4
+      internalID: 1766253548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_14"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86afda916d6d4c198465e93cc8e8184
+      internalID: 1847934940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_15"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fc29efbecdf470eafe99f3081cb002
+      internalID: 616986245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_16"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6929557afd8a64f89b924659dcb01ec0
+      internalID: -1377473239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_17"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19422c4e1b594e81a47937da2a96106
+      internalID: 332902648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_18"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00af974b9ba924d1aa35f70632b2fb1d
+      internalID: -112934752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_19"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ecda765e61448b299633f272788e6b
+      internalID: -1073717579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_20"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd59bd4e986e841058df151f61e56d8f
+      internalID: 1376601063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_21"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13b627e93e674b14bab9cd49b85537a
+      internalID: 954958685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_22"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b262721ab7af6457b9ae05be8994f240
+      internalID: 1487420107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_23"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c42880292860477b9165eecfcb56e13
+      internalID: 352355084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_24"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79084d6008af94a0ba2aecf2dcf1f595
+      internalID: 1932858489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_25"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3eca7e6e7834303b556a124cdb7a89
+      internalID: -1966103687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_26"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800dc48625c7545809ad06a0726aea16
+      internalID: 1262663901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_27"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a38208d67a343f2b83d2e87d9a6086
+      internalID: 1919718039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_28"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca2d1e8a18d549d984c81916ecff52c
+      internalID: -377484227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_29"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff0af8dbf76a4ea3b3ecfc6111dd4d4
+      internalID: 1829657480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_30"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294d194210a2a447bbb815fcbb23eb70
+      internalID: 1746499327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_31"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7e7bb13478b457a9bcfdecf64a9040
+      internalID: -2125971007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_32"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af3452d34871451fa0fb5c057842f32
+      internalID: 982177680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_33"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e80402211d9b4fb2a5c30430eadf84b
+      internalID: -81249731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_34"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4e777c841e64308a3ecca44d2a8b20
+      internalID: -1887701081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_35"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bfe79e96a4a49cc874d1232fd04542
+      internalID: 1257154345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_36"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1957a5c8db24014aea1bc9da26b278
+      internalID: -720275571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_37"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f90741d45f04142888049ec9314f7d
+      internalID: 430046591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_38"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81440a430fdb641acba5f49a04f3b580
+      internalID: 25742020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_39"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9054a7993fae644c7bbc5a03746b5616
+      internalID: -704489886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_40"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b8a2e5fd10a428098874177d9b47fd
+      internalID: -1544349971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_41"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e501e5d9a48654ce38a4d9d9b593c783
+      internalID: 2010813384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_42"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3766c420426fb4b88a91f309ff680696
+      internalID: 1488569996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_43"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dda6e76a9ba40fbb4c505d0b2364ca
+      internalID: 1487964258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_44"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388dd834b209f4b66aa316830c59ca19
+      internalID: -1506302670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_45"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a30f43edc4341869c946d5b853fe73
+      internalID: 422958522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_46"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdaae9dba9874b40bd9fe1566b266a5
+      internalID: 580458160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_47"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32afe3ec63d64615b6bb774a11defce
+      internalID: -1246106227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_48"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c125442a04588437ba8d61a96a5e2ced
+      internalID: -985898099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_49"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6310cb1eddb4fdaa57ea3eaf7049b3
+      internalID: 871519309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_50"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26af2608ab0034d948447cf3596124f1
+      internalID: 1685933409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_51"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2d32b93b3a94548ae017d1d600f02f
+      internalID: 1953133716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_52"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598f57e86c0334329bdcee9d0424f036
+      internalID: 490962154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_53"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05803431509d4b4db7d9cdbf90e79ff
+      internalID: 600697460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_54"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e462d8e4be79418a98dccc8e81a43b9
+      internalID: -1271751029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_55"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa2c1ef56e8f427fabcc376ea0e11f3
+      internalID: 1109691649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_56"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0163a71bcf4b549498c1399d3f27f40e
+      internalID: 1397465154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_57"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd41e78e3aa54862a0d419431227198
+      internalID: -1730291107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_58"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539d2179259e648598f211807a2bd1b6
+      internalID: -1226451183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_59"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9478d10c03db14edd8975fde68ec4f33
+      internalID: 1725612122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_60"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54800092e59c415bacd1df673c2809c
+      internalID: -56169603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_61"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f51b474e840a405b8dfbfa3ea3afd0c
+      internalID: 5559874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_62"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cec23db5d034ad6ac8201f0064bd68
+      internalID: 621433585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_63"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9e7a7204484490b8e43e1b6a600cad
+      internalID: 1130731569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_64"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a4eef5a82ea4398a69ba5b91052ce4
+      internalID: -1937879408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_65"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a4beb1ff50740949efbf281e90e703
+      internalID: 25198866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_66"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7cfca8b4fc045a19020c1e822b9c4e
+      internalID: 2049901147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_67"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70699d03acbfe4adb91f29eb30d322eb
+      internalID: 220327437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_68"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e222ecdd77241a2b7fca1071c0f185
+      internalID: 265302755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_69"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac545c118eb924dd5aedb29e795af96c
+      internalID: -885143220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_70"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5dcecd03a08438d9e5c6b53413b568
+      internalID: -1005635457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_71"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e7c122d823e4d0c8afe70bec5313a7
+      internalID: -92953502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_72"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9cead94bfbf4929ad59235a23e1cab
+      internalID: 200288273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_73"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3703cc8c4be6d4cf7af8e20adb7e392a
+      internalID: 1110599837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_74"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f708210e55bf417db0223c753002639
+      internalID: -214100365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_75"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89e1947f2e0947e590306885280c1b3
+      internalID: 799642815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_76"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd77d1b39628741839fb4bd1d956777c
+      internalID: 488466234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_77"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b9fbab168c2430b8be64a3f628b53a
+      internalID: -1006749158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_78"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fa9c3c452f34a6cb49ed951e9a527f
+      internalID: 50990590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_79"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cfcb9bc1c10477091aa63b4a2a1749
+      internalID: -231691073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_80"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe8d55a8d0a74535bf64f45175f0af1
+      internalID: -1494414521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_81"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f76fedd0ef849e39e3cfb0713cb607
+      internalID: 554648941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_82"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3b2a7a307b940db9380e3a0b9d1cfa
+      internalID: -308231345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_83"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97edc3eafa3144cde9436391675f038b
+      internalID: -2037063398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_84"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a86ed61526dc4796ab598cd2cbc2cc2
+      internalID: -2032961439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_85"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71540baf73e1a4e20943860805d8abbd
+      internalID: 2040243740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_86"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a891d1d8d228453280066c44026da23
+      internalID: -1766023780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_87"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17999b56249cf44cb99e3560620a2a0c
+      internalID: -989567634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_88"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a1e116891a04426b7a87c2a35ce2ed
+      internalID: -1241219437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_89"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df06e0985ea94d3e9c25935c05b41bd
+      internalID: -199711802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_90"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d203e3483fb9c44b9a658e55dbe7b8c9
+      internalID: -1224029022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_91"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78f1ababc54c45e986d25146bdc5ce7
+      internalID: -124995393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_92"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0e09bc06a364d50850b663ca976d9a
+      internalID: -496034391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_93"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cf331de90b84c5bb3ef04244db6698
+      internalID: 24233035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_94"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599892dd2bd3c4cc6964fd2c8d4f7127
+      internalID: 332174405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_95"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c261a38d725498ba7ceef6a654f914
+      internalID: 1051021647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_96"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4748fb0f9e83c42b38e5652556fce713
+      internalID: 314614727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_97"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdd5bde984a44f8eb54707b0ee5d5d2
+      internalID: -1505793985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_98"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d5d1de8d7244678bc89e1b6ccebe04
+      internalID: 602423740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_99"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b517feee827a4f349cba3ee4b770240
+      internalID: -899594336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_100"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52adafaf856d445f89985c8f09e70482
+      internalID: -1538752823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_101"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f51f1e73ef1646c095f645f9b94e98d
+      internalID: 1922894840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_102"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d98e7e5a0ef84305b21aaa6fd43b655
+      internalID: 1471719524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_103"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84210eef255246dda35561eaf9d89fc
+      internalID: -175735193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_104"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9957f5c0caf4b4b8db5222dfd1ec50
+      internalID: 397913105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_105"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ee8625b7128439fbc273adb6b3258c
+      internalID: -710327861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_106"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b78a19631f24a068fa4ca329819384
+      internalID: 609085916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_107"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac0486ad5f1a4957b47fda17a967284
+      internalID: 1679765513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_108"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c069eff15f5045ec929be8672f92a74
+      internalID: -82726499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_109"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63656606aebc44900bee147835e69fff
+      internalID: -2114231753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_110"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7565ed29a5b45b682987bca1789dea
+      internalID: -273571524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_111"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59421319bd834797bdd0b140978de80
+      internalID: 841322110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_112"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573df62f5607142149621c0cc3a912cf
+      internalID: 352793196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_113"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7064456756b704748851a840f5a30b7b
+      internalID: -1719261943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_114"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bd2f70918d14db4b7f274d56b6a258
+      internalID: 490262064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_115"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c8f072d0c3642fb8a38b84177addd9
+      internalID: 66593302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_116"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bad16b368d5c4b66a87afa923d22e14
+      internalID: 416464978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_117"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e92e75958724390a1fc0332dddd41e
+      internalID: 869388366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_118"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcb248dc8e53481bb834d4123f155b5
+      internalID: -1420595847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_119"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c737ee2f414884afd83b2ce0c7b78a38
+      internalID: 754756749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_120"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0adb0facada47c39960fc8f23eb1c1
+      internalID: 1998881854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_121"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce81515558ffb4ba6845f3315daeb44d
+      internalID: -173403758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_122"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d985c9b65d2e4c9baa4aa6aa905a7a6
+      internalID: 326880272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_123"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f1b59b41b5d450a90e2e927c4e6f79
+      internalID: -352083389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_124"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdea7c8917dc4491282bc33a6ef6e79a
+      internalID: 1952702306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_125"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed493ae274874020b90118f1f342873
+      internalID: 1710322238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_126"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62aafbe4b805408cacd3b11fdd5796a
+      internalID: 1269407086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_127"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ed1f0f0f52f4802bd822ad6f264f50
+      internalID: 944242969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_128"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b44cb2518d94c99a3d63c4a853085b
+      internalID: -1924271662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_129"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e36b97047a1744e0880b77b0346e00d
+      internalID: -209643347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_130"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9c43b02c9d8400cb1ad1d98b65299c
+      internalID: -1917274564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_131"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9496a91618ae242a6ad826d3e8e24145
+      internalID: -1977442028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_132"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c1d7ceda140413eb0157ec1088b9b0
+      internalID: 619087605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_133"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1770779d87af64567b0cd82e25700456
+      internalID: 2125184620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_134"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9c6bbbcb2f84062bcb87399dd7e0e4
+      internalID: -1879176979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_135"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040daa31f7e6549799efe2d34957de9b
+      internalID: -192716618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_136"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e79e4825fb24814908bee43dcad4c5
+      internalID: -1167373075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_137"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ce82ecb2699416eab4a4bcc968cec4
+      internalID: 332752628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_138"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e5d5a866bcc4aa5a22230e70579b97
+      internalID: 844443950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_139"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02646d24ba06d4338a446b24f7e98701
+      internalID: 233553028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_140"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547d4df45796c405bbcd1c28dc9201fc
+      internalID: 795520158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_141"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555e30c4ac67c4da9b28f9a05989a2dd
+      internalID: -177167429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_142"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f81c5ebb78324aee9f404d45b6ec21f
+      internalID: 1571166258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_143"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f6d71e7854f466aaf587baabfea146
+      internalID: -557934732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_144"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9b0284a9b9143b89163ee31b866d78
+      internalID: 1049993151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_145"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be69c9f6ae96e4915a4e50429f171829
+      internalID: -780161171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_146"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c050b514574049678277e0c1dd22601
+      internalID: 108134415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_147"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce703ede9225746a6bd429fcc1cb8acb
+      internalID: 1913667367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_148"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303cc307dc3e74454a3c144fc518e2a0
+      internalID: -1708509358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_149"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef5b461eca4644a38092a588f46a74f
+      internalID: -1153178583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_150"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097ba298ccfd24ff6aab97fbfec6626e
+      internalID: 2015888941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_151"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab3b9d9507fc49b0809508c29ba7d75
+      internalID: -1788769747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_152"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfeaa3853fe8548a7b2886f0a89780d8
+      internalID: -1183448386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_153"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18a5b6052f08419e804411b4da7d9a5
+      internalID: -1125423903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_154"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923ac0868403244c88f60b901ca61e95
+      internalID: 1423073340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_155"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d2466f91a5d409ea2eff9c2d63b7e1
+      internalID: 1991112151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_156"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803dd75aae790441f97c9035005f45ef
+      internalID: 2101755073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_157"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7ae4d97f8f845d384aaae8d35b0f84
+      internalID: -1476522450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_158"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5511c42e07272404581827ef6bc2b899
+      internalID: 1849988286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_159"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215dd7deab3554ef6bd97c58a3613c6c
+      internalID: -1748820652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_160"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e772e09f39d49e0912a155ae496a95
+      internalID: -1892485120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_161"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b5e13c61c1f4637af80314d004856c
+      internalID: -333187255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_162"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fadab79b9bc4c55b0bdead1bcaf95b
+      internalID: -2099906250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_163"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9dab5bca8ba4d17bcaf474388d59a7
+      internalID: 474857294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_164"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dbc14bcd82f45669badf2b9d24c307
+      internalID: -331777676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_165"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bc8f9b726004ddf9361265f95bf175
+      internalID: 18379966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_166"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1aecb229dec44d409902f5f1c234d52
+      internalID: -471298906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_167"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6768ff22c2bc449b9a3ecb4716956601
+      internalID: -45946170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_168"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e0c4c2a7e4c49059ada7419ed8fc7d
+      internalID: -424873021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_169"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708c21f8904ef4313b4f6b1d2bccf018
+      internalID: -2074845833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_170"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbba0d1dc2f0940979c4aac4fc25ece4
+      internalID: 1500685828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_171"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2073d06901de34befa76cfc7647c1ac2
+      internalID: -146406001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_172"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bba62dd8ce5547cbb4833e8cb1f372a
+      internalID: -1313528621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_173"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b44012c28aef4407bff7528494a6d96
+      internalID: 463730190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_174"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765d9ca025aba473f9eed66320266d85
+      internalID: -1945315264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_175"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922765e341e0440258528388285dfdea
+      internalID: 2115335530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_176"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d4fe3969cb248969b194db5aa1b0dc
+      internalID: 1589847194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_177"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b57e147780b243e596689a122669047
+      internalID: -1776383342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_178"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fb8199871ea459caa1907b5c0b5213
+      internalID: 19534386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_179"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be55dd5491674c01b83f9411dd85151
+      internalID: 1569192474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_180"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7868fd9d2255344f891c325c72ceff9a
+      internalID: 1060144830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_181"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcd2fbc010a9481aa7539fa25bf3b3f
+      internalID: 1495254736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_182"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a089dcd4c214ddbb84c5cbcc9de30e
+      internalID: -1867236317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_183"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc05b33a6fcc0428e977c7af3612641b
+      internalID: -1663962560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_184"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ab5a606d9b54f82953fa23deb891a7
+      internalID: 2046302114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_185"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd11c89cabbb4c21a9a004ff4897603
+      internalID: 1176323898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_186"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac0ad10a4bcf41ef8b36faaeca2fbe6
+      internalID: -1781249583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_187"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac1b20e6a08f4168b68606005731700
+      internalID: -931635363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_188"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604869acb82844716832aa49bfab82cb
+      internalID: 70655776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_189"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cef898a6663499a90a9f4d0a6d79d4
+      internalID: -239050029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_190"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b43729b822f48068eaf4f224180447
+      internalID: 1807171007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_191"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d540901156a9420680dbdc8ae7e64bf
+      internalID: 301571009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_192"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e127697e70124f0ca0727cbd92457dd
+      internalID: 586728660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_193"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a13897f9cddd433f8b0ccbcf5a51326
+      internalID: 1995970200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_194"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf2f53c82ece4ab9bd0bc203e01ddb1
+      internalID: 1958024178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_195"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644e53aa9f7024942a063f30e348d783
+      internalID: -1268411733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_196"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8191d590cc44b99941be32a88a03b3
+      internalID: -515671217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_197"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89d603b53e1a4d74b3dba2757ecd01b
+      internalID: -478968197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_198"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a73fd8d5963472484037429e9b9cb4
+      internalID: -1055126596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_199"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40132abfbf84e40a99f8d73d8644807d
+      internalID: 765019578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_200"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4d91241f96b4d849292e894facb424
+      internalID: -1906895874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_201"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5981cd8e641471c91d7aa57295cfeb
+      internalID: -807141363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_202"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ee2a23a0b5c470d9c2e4c345dd6e13
+      internalID: -833488996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_203"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dbf60e8666e4193b1fe9d302c75aae
+      internalID: -1181813578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_204"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54980a36170747c98f6b97f11cf574c
+      internalID: -1901624952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_205"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c13511c11d24d93ab1dd6d21462adf
+      internalID: 1439453337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_206"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4e7d49869b540cbbc4e736e49fe9bf
+      internalID: 1773309713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_207"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfd556b30ae34dad8ca28e8ae2b1647
+      internalID: 1302519053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_208"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142be37cc227649e9b132e8de52c4dc0
+      internalID: 1770022170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_209"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564f5092b29834706a9473c29a152b0c
+      internalID: -1178252803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_210"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b200a4e7922444f971520f584c482b
+      internalID: -189127330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_211"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd79238d8f768482d9fe5b56c45b4e51
+      internalID: -2035516254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_212"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67a6a2c1e0314367b36102936e25140
+      internalID: -2018803056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_213"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9720ba9bbfb334a23b66f4620e0cbbad
+      internalID: 581091985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_214"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5f8c89d961845d3af81f63acb65361
+      internalID: -1095363470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_215"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b748a99f0a776460ebb439a04e0ed6b5
+      internalID: -94789971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_216"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d4a715ed9954640b2a30f78771f793
+      internalID: 1612533306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_217"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42d45f9122ed474f966100207006436
+      internalID: 470051092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_218"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c91b53403cc40929e9b7e1a3bec556
+      internalID: -1222057149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_219"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a7116a2127743c795057e2ef782f99
+      internalID: -1287233100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_220"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9dcdca25ed24860b79587b74e2d8a3
+      internalID: -1182536540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_221"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56b61bb6370c4e6e9d532446e310acc
+      internalID: -1575760043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_222"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514116f28260c45d687d0182e8b710ce
+      internalID: -1606834423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_223"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbd03593d0d743a5a245d671dcdf14a
+      internalID: -568313076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_224"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d20d30c83d794d27bb2de0e7b737d12
+      internalID: 487801933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_225"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a217c21006bcc46f0a1824dfc82c9a5c
+      internalID: -438181058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_226"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1f51beabb45495681fec52685088c1
+      internalID: -2107720264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_227"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55320838a4910431e8d1c3ce6344001c
+      internalID: -1391627733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_228"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47dbab562cb344b0bd0d8c275fc99c8
+      internalID: -969706931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_229"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c287a512af64307b4c72dfc3fbbbf0
+      internalID: -408891000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_230"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697f97d87731c4328b3b597de2a05115
+      internalID: 1638837159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_231"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46deb1db369404d3b8c12ecd144bf7e7
+      internalID: -1988948671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_232"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1644d55fe05fd4508a035a16a5bc2cc8
+      internalID: -1426415687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_233"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84acc5c8c1394fa1bc4cb40272ebd54
+      internalID: -1569996336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_234"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca600c2e19c440b8b7ca7347ee41bbe
+      internalID: -11379485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_235"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f55b00e74db442d927deac044533cb
+      internalID: 320851956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_236"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5853685609d9490ca8df5e1df84c47a
+      internalID: 1129277259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_237"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9ccee4f0c0e4c828c5af0062937f0a
+      internalID: 797056476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_238"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8ac40c89a8f47c487ce828666f9314
+      internalID: 32404749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_239"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8947d8944b514bbe894e1d0e1a6498c
+      internalID: 156554949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_240"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125a7e3ab84de42009ae6be670d2b40d
+      internalID: -498723359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_241"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20887853d9c6443eb899cc084d96234
+      internalID: 119642351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_242"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162c55b33e999440cbadaee700d09461
+      internalID: 1057572866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_243"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cfca837297c48b9a30c001171a1952
+      internalID: -157071427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_244"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63296f316b4a0405495de8a103eb07cb
+      internalID: 1809777916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_245"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b31fe6ce35f405d8b6bf4bcd543a40
+      internalID: 785244864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_246"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325f6f2ac1f3542bd8dca33ac8774da1
+      internalID: -1747763738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_247"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8bf662b46fb4d1998d942a5c4182ec
+      internalID: 178866698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_248"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c3668d0ea0244d5bfbfd1146b93c8b
+      internalID: -1995090389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_0": 1709409674
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_1": -1098608928
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_10": -1487570283
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_100": -1538752823
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_101": 1922894840
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_102": 1471719524
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_103": -175735193
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_104": 397913105
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_105": -710327861
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_106": 609085916
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_107": 1679765513
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_108": -82726499
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_109": -2114231753
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_11": -1563904550
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_110": -273571524
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_111": 841322110
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_112": 352793196
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_113": -1719261943
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_114": 490262064
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_115": 66593302
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_116": 416464978
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_117": 869388366
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_118": -1420595847
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_119": 754756749
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_12": 1631431461
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_120": 1998881854
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_121": -173403758
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_122": 326880272
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_123": -352083389
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_124": 1952702306
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_125": 1710322238
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_126": 1269407086
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_127": 944242969
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_128": -1924271662
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_129": -209643347
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_13": 1766253548
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_130": -1917274564
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_131": -1977442028
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_132": 619087605
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_133": 2125184620
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_134": -1879176979
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_135": -192716618
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_136": -1167373075
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_137": 332752628
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_138": 844443950
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_139": 233553028
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_14": 1847934940
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_140": 795520158
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_141": -177167429
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_142": 1571166258
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_143": -557934732
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_144": 1049993151
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_145": -780161171
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_146": 108134415
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_147": 1913667367
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_148": -1708509358
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_149": -1153178583
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_15": 616986245
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_150": 2015888941
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_151": -1788769747
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_152": -1183448386
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_153": -1125423903
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_154": 1423073340
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_155": 1991112151
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_156": 2101755073
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_157": -1476522450
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_158": 1849988286
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_159": -1748820652
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_16": -1377473239
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_160": -1892485120
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_161": -333187255
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_162": -2099906250
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_163": 474857294
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_164": -331777676
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_165": 18379966
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_166": -471298906
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_167": -45946170
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_168": -424873021
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_169": -2074845833
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_17": 332902648
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_170": 1500685828
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_171": -146406001
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_172": -1313528621
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_173": 463730190
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_174": -1945315264
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_175": 2115335530
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_176": 1589847194
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_177": -1776383342
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_178": 19534386
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_179": 1569192474
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_18": -112934752
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_180": 1060144830
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_181": 1495254736
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_182": -1867236317
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_183": -1663962560
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_184": 2046302114
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_185": 1176323898
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_186": -1781249583
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_187": -931635363
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_188": 70655776
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_189": -239050029
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_19": -1073717579
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_190": 1807171007
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_191": 301571009
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_192": 586728660
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_193": 1995970200
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_194": 1958024178
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_195": -1268411733
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_196": -515671217
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_197": -478968197
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_198": -1055126596
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_199": 765019578
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_2": -843557183
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_20": 1376601063
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_200": -1906895874
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_201": -807141363
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_202": -833488996
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_203": -1181813578
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_204": -1901624952
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_205": 1439453337
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_206": 1773309713
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_207": 1302519053
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_208": 1770022170
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_209": -1178252803
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_21": 954958685
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_210": -189127330
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_211": -2035516254
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_212": -2018803056
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_213": 581091985
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_214": -1095363470
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_215": -94789971
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_216": 1612533306
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_217": 470051092
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_218": -1222057149
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_219": -1287233100
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_22": 1487420107
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_220": -1182536540
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_221": -1575760043
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_222": -1606834423
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_223": -568313076
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_224": 487801933
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_225": -438181058
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_226": -2107720264
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_227": -1391627733
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_228": -969706931
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_229": -408891000
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_23": 352355084
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_230": 1638837159
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_231": -1988948671
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_232": -1426415687
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_233": -1569996336
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_234": -11379485
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_235": 320851956
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_236": 1129277259
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_237": 797056476
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_238": 32404749
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_239": 156554949
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_24": 1932858489
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_240": -498723359
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_241": 119642351
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_242": 1057572866
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_243": -157071427
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_244": 1809777916
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_245": 785244864
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_246": -1747763738
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_247": 178866698
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_248": -1995090389
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_25": -1966103687
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_26": 1262663901
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_27": 1919718039
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_28": -377484227
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_29": 1829657480
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_3": -1602339085
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_30": 1746499327
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_31": -2125971007
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_32": 982177680
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_33": -81249731
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_34": -1887701081
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_35": 1257154345
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_36": -720275571
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_37": 430046591
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_38": 25742020
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_39": -704489886
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_4": -1567309958
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_40": -1544349971
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_41": 2010813384
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_42": 1488569996
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_43": 1487964258
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_44": -1506302670
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_45": 422958522
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_46": 580458160
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_47": -1246106227
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_48": -985898099
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_49": 871519309
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_5": 1582994167
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_50": 1685933409
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_51": 1953133716
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_52": 490962154
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_53": 600697460
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_54": -1271751029
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_55": 1109691649
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_56": 1397465154
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_57": -1730291107
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_58": -1226451183
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_59": 1725612122
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_6": -844186066
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_60": -56169603
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_61": 5559874
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_62": 621433585
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_63": 1130731569
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_64": -1937879408
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_65": 25198866
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_66": 2049901147
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_67": 220327437
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_68": 265302755
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_69": -885143220
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_7": 1183865498
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_70": -1005635457
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_71": -92953502
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_72": 200288273
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_73": 1110599837
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_74": -214100365
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_75": 799642815
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_76": 488466234
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_77": -1006749158
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_78": 50990590
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_79": -231691073
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_8": -1488227027
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_80": -1494414521
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_81": 554648941
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_82": -308231345
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_83": -2037063398
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_84": -2032961439
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_85": 2040243740
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_86": -1766023780
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_87": -989567634
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_88": -1241219437
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_89": -199711802
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_9": 531792790
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_90": -1224029022
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_91": -124995393
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_92": -496034391
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_93": 24233035
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_94": 332174405
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_95": 1051021647
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_96": 314614727
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_97": -1505793985
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_98": 602423740
+      "AxulArti\u0304s_Basic-Top-down-interior_ALL_By_AxulArt_99": -899594336
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
